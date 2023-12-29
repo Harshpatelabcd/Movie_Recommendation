@@ -18,6 +18,6 @@ Concept Used
 - Getting uclidian distance
  ![Screenshot (33)](https://github.com/Harshpatelabcd/Movie_Recommendation/assets/73551662/74bc1120-72dc-4cb0-8e65-82b298c070cf)
 
-- Recoomendation function
+- Recomendation function
  ![Screenshot (34)](https://github.com/Harshpatelabcd/Movie_Recommendation/assets/73551662/b2f7cacc-fabd-4efd-b8a5-f323476b2e58)
 
