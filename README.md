@@ -21,3 +21,7 @@ Concept Used
 - Recomendation function
  ![Screenshot (34)](https://github.com/Harshpatelabcd/Movie_Recommendation/assets/73551662/b2f7cacc-fabd-4efd-b8a5-f323476b2e58)
 
+-UI
+![Screenshot (28)](https://github.com/Harshpatelabcd/Movie_Recommendation/assets/73551662/74d4b496-a42f-4470-b684-638fd8fd2417)
+![Screenshot (29)](https://github.com/Harshpatelabcd/Movie_Recommendation/assets/73551662/f722c244-6b3c-45e2-b674-bd78e23e478a)
+
